@@ -4,3 +4,6 @@ This program was authored by:
 	-[Viscount Wathika](https://github.com/wathika)
 	-[Sylvia Kieha](https://github.com/njerrywerry)
 	-[Peter Muturi](https://github.com/Petermuturi)
+
+
+Moringa School Cohort 3 
